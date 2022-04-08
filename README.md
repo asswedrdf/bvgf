@@ -1,6 +1,6 @@
 
 
-**若需部署 V2Ray VLESS，请转到 [vless](https://github.com/asswedrdf/bvgf/tree/vless) 分支。**
+ [vless](https://github.com/asswedrdf/bvgf/tree/vless) 
 
 
  
